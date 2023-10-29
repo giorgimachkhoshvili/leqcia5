@@ -1,4 +1,277 @@
-
-h1{
-	color: blueviolet;
+body {
+	padding-top: 54px;
+	padding-left: 52px;
 }
+
+header{
+	margin-bottom:44px ;
+}
+
+.logo {
+	
+	vertical-align: middle;
+	display: inline-block;
+	margin-right: 60px;
+}
+
+.active{
+	color: #4E6FAE;
+}
+
+nav{
+	vertical-align: middle;
+	display: inline-block;
+}
+
+li{
+	vertical-align: middle;
+	display: inline-block;
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 87px;
+}
+.date{
+	width: 50px;
+	height: 50px;
+	background: #5012D5;
+	
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 8px 11px;
+	margin-bottom: 18px;
+}
+
+
+.maisi{
+	color: #8D81FF;
+	font-family: BPG Nostalgia;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	width: 119px;
+	height: 34px;
+}
+.satauri{
+	color: #4E6FAE;
+	font-family: BPG Square;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 8px;
+	margin-bottom: 13px;
+}
+.pic1{
+	
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 66px;
+}
+
+.text{
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+}
+
+p{
+	color: #4E6FAE;
+	font-family: GL Kirovi;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 30px;
+}
+ .div1{
+ 	margin-bottom: 167px;
+ }
+
+ .div2{
+
+ 	margin-bottom: 176px;
+ }
+ .text2{
+ 	margin-top: 32px;
+ }
+ .mtavarisicons{
+	margin-left: 1px;
+}
+
+.xazi{
+	margin-left: 41px;
+	margin-right: 41px;
+}
+.html{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  }
+
+.siaxleebi{
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: default;
+	margin-left: 123px;
+	margin-top:  120px ;
+}  
+
+.detalurad{
+	display: inline-block;
+	vertical-align: default;
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.martkutxa{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	margin-left: 123px;
+	margin-top: 26px;
+	display: inline-block;
+	vertical-align: default;
+
+}
+.lupa{
+	padding-left: 36px;
+	padding-top: 29px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.sum{
+	display: inline-block;
+	vertical-align: default;
+	 margin-left: 20px;
+	 margin-right: 15px;
+	}
+
+
+.text1{
+	color: #7E8898;
+	font-family: Roboto;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+	width: 335px;
+	height: 95px;
+	padding-top: 21px;
+	padding-left: 37px;
+
+}
+.developerebi{
+	color: #3F4145;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-top: 21px;
+	padding-left: 23px;
+}
+.icons{
+	margin-left: 123px;
+	margin-top: 91px;
+
+}
+
+.maindiv{
+	width: 1660px;
+	height: 500px;
+	background: #E7E7E7;
+}
+.div3{
+	display: inline-block;
+	margin-right: 80px;
+	vertical-align: top;
+}
+.info{
+	color: #4E6FAE;
+	font-family: Helvetica Neue;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding-top: 93px;
+	padding-left: 162px;
+	display: inline-block;
+	vertical-align: sub;
+}
+.misamart{
+	color: #7E8898;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+h3{
+	padding-left: 162px;
+	padding-top: 15px;
+	vertical-align: top;
+}
+.nigeria{
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 93px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
